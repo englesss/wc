@@ -1,0 +1,2 @@
+# wc
+dim fun
